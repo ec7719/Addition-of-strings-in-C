@@ -1,1 +1,1 @@
-# c-programs
+Addition of strings in C
